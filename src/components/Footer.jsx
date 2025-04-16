@@ -3,7 +3,7 @@ import React from 'react'
 const Footer = () => {
   return (
    <footer>
-    <p>Created By <a href="https://ankitjha.vercel.app" target='_blank'>Ankit Jha</a></p>
+    <p>Created By Group 11</p>
    </footer>
   )
 }
